@@ -1,0 +1,31 @@
+.loading {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  transform: scale(5);
+}
+.loading svg {
+  animation: is-rotating 1s infinite;
+  border: 6px solid #e5e5e5;
+  border-radius: 50%;
+  border-top-color: #22d411;
+  height: 50px;
+  width: 50px;
+}
+@keyframes is-rotating {
+  to {
+    transform: rotate(1turn);
+  }
+}
+.loading polygon {
+  stroke-dasharray: 22;
+  stroke-dashoffset: 1;
+  animation: dash 4s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite
+    alternate-reverse;
+}
+@keyframes dash {
+  to {
+    stroke-dashoffset: 234;
+  }
+}
