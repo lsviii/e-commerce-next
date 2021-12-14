@@ -1,0 +1,162 @@
+[
+    {
+        "images": [
+            {
+                "public_id": "id1",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            },
+            {
+                "public_id": "id2",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 500,
+        "sold": 0,
+        "title": "IPhone 11",
+        "price": 4450.00,
+        "description": "Iphone 11 64 Gb Vermelho",
+        "content": "Fabricante Apple Computer Brasil Marca Apple Tipo de Chip Nano Chip Sistema Operacional IOS",
+        "category": "celular"    
+    },
+    {
+        "images": [
+            {
+                "public_id": "id4",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            },
+            {
+                "public_id": "id5",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 500,
+        "sold": 0,
+        "title": "IPhone 11",
+        "price": 5999.00,
+        "description": "Iphone 11 64 Gb Vermelho",
+        "content": "Fabricante Apple Computer Brasil Marca Apple Tipo de Chip Nano Chip Sistema Operacional IOS",
+        "category": "celular"    
+    },
+    {
+        "images": [
+            {
+                "public_id": "id6",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            },
+            {
+                "public_id": "id7",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 500,
+        "sold": 0,
+        "title": "IPhone 11",
+        "price": 2999.00,
+        "description": "Iphone 11 64 Gb",
+        "content": "Fabricante Apple Computer Brasil Marca Apple Tipo de Chip Nano Chip Sistema Operacional IOS",
+        "category": "celular"    
+    },
+    {
+        "images": [
+            {
+                "public_id": "id8",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            },
+            {
+                "public_id": "id9",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 500,
+        "sold": 0,
+        "title": "IPhone 11",
+        "price": 4999.00,
+        "description": "Iphone 11 64 Gb Vermelho",
+        "content": "Fabricante Apple Computer Brasil Marca Apple Tipo de Chip Nano Chip Sistema Operacional IOS",
+        "category": "celular"    
+    },
+    {
+        "images": [
+            {
+                "public_id": "id10",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            },
+            {
+                "public_id": "id11",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 500,
+        "sold": 0,
+        "title": "IPhone 12",
+        "price": 7999.00,
+        "description": "Iphone 12 64 Gb Vermelho",
+        "content": "Fabricante Apple Computer Brasil Marca Apple Tipo de Chip Nano Chip Sistema Operacional IOS",
+        "category": "celular"    
+    },
+    {
+        "images": [
+            {
+                "public_id": "id12",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            },
+            {
+                "public_id": "id2",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 500,
+        "sold": 0,
+        "title": "IPhone 12",
+        "price": 9999.00,
+        "description": "Iphone 12 128 Gb Azul",
+        "content": "Fabricante Apple Computer Brasil Marca Apple Tipo de Chip Nano Chip Sistema Operacional IOS",
+        "category": "celular"    
+    },
+    {
+        "images": [
+            {
+                "public_id": "id13",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            },
+            {
+                "public_id": "id14",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 500,
+        "sold": 0,
+        "title": "IPhone 12",
+        "price": 6199.00,
+        "description": "Iphone 12 64 Gb Branco",
+        "content": "Fabricante Apple Computer Brasil Marca Apple Tipo de Chip Nano Chip Sistema Operacional IOS",
+        "category": "celular"    
+    },
+    {
+        "images": [
+            {
+                "public_id": "id15",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            },
+            {
+                "public_id": "id16",
+                "url": "https://images-americanas.b2w.io/produtos/01/00/img/1611315/9/1611315984_1SZ.jpg"
+            }
+        ],
+        "checked": false,
+        "inStock": 500,
+        "sold": 0,
+        "title": "IPhone 12",
+        "price": 7499.00,
+        "description": "Iphone 12 64 Gb Vermelho",
+        "content": "Fabricante Apple Computer Brasil Marca Apple Tipo de Chip Nano Chip Sistema Operacional IOS",
+        "category": "celular"    
+    }
+]
