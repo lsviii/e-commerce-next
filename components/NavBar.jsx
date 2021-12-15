@@ -15,9 +15,9 @@ function NavBar() {
 
   const logout = () => {
     return (
-      <li className="nav-item dropdown">
+      <li className="nav-item dropdown text-white bg-success mb-3">
         <a
-          className="nav-link dropdown-toggle"
+          className="nav-link dropdown-toggle "
           href="#"
           id="navbarDropdownMenuLink"
           role="button"
@@ -45,7 +45,7 @@ function NavBar() {
   }
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+    <nav className="navbar navbar-expand-lg navbar-light bg-success text-white ">
       <div className="container-fluid">
         <Link href="/">
           <a className="navbar-brand">e-Commerce NextJS</a>

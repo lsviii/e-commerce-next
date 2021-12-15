@@ -14,17 +14,14 @@ const Car = () => {
     <div className="row mx-auto">
       
       
-      <div><h4>Carrinho de Compras:</h4></div>
-      <div>
-
-      <div className="d-flex justify-content-end">Envio de produtos</div>
-      <div className="d-flex justify-content-end">CEP:
-      <input className="d-flex justify-content-end" type="text"/></div>
-      <div className="d-flex justify-content-end">Contato:
-      <input className="d-flex justify-content-end" type="text"/></div>
-
       
-
+      <div>
+      <div className="d-flex justify-content-between m-3"> 
+      <div className="card text-white bg-success border-success p-2 col-example text-left">Meu Carrinho de Compras</div>
+      <input className="p-2 col-example border-success" type="text" placeholder="CEP"/>
+      <input className="p-2 col-example border-success" type="text" placeholder="Telefone"/>        
+      <button className="p-2 col-example text-left btn btn-success btn-sm" type="button">COMPRAR</button>
+      </div>
       </div>
 
       
